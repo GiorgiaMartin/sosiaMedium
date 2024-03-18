@@ -1,0 +1,16 @@
+body, h1, h2, p, ul, address {
+    margin: 0; }
+
+#superContainer {
+    display: flex;
+    flex-wrap: row;
+}
+
+#videoTop {
+    display: flex;
+    flex-wrap: wrap;
+}
+header {background-color: #d3d3dd;}
+main {background-color: yellow;}
+aside {background-color: aquamarine;}
+footer {background-color: chocolate;}
